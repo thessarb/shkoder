@@ -1933,14 +1933,13 @@ Deals Page Style
 
 .amazing-deals .item .image {
   border-top-left-radius: 23px;
-  border-bottom-left-radius: 23px;
+  border-top-right-radius: 23px;
   overflow: hidden;
 }
 
 .amazing-deals .item {
   background-color: #f7f7f7;
   border-radius: 23px;
-  padding-right: 30px;
   margin-bottom: 30px;
 }
 
@@ -1971,7 +1970,7 @@ Deals Page Style
 }
 
 .amazing-deals .item .content {
-  padding: 30px 0px;
+  padding: 30px;
 }
 
 .amazing-deals .item p {
@@ -2182,6 +2181,9 @@ Reservation Page Style
   opacity: 0.8;
 }
 
+.amazing-deals .page-numbers {
+    display: none;
+}
 
 
 /* 
