@@ -211,7 +211,11 @@ section {
   font-size: 30px;
   font-weight: 700;
   text-transform: capitalize;
-  color: #2a2a2a;
+  color: #d5d5d5;
+}
+
+.visit-country h4 {
+    color: #d5d5d5;
 }
 
 /* 
